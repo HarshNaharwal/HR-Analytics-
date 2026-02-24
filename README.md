@@ -3,11 +3,11 @@ You can copy–paste this into your `README.md` file.
 
 ---
 
-# 📊 HR Analytics in Power BI – Atlas Labs Case Study
+# 📊 HR Analytics in Power BI – Atlas Labs 
 
 ## 📌 Project Overview
 
-This project is a **Power BI HR Analytics case study** based on a fictitious software company called **Atlas Labs**.
+This project is a **Power BI HR Analytics ** based on a fictitious software company called **Atlas Labs**.
 
 The main goal of this project is to **analyze Human Resources data**, understand **employee demographics, performance, and attrition**, and build a **clean, interactive, and branded Power BI report** that helps the HR team make better decisions.
 

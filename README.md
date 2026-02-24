@@ -1,8 +1,3 @@
-Below is a **simple and clean GitHub README** you can directly use for your project 👇
-You can copy–paste this into your `README.md` file.
-
----
-
 # 📊 HR Analytics in Power BI – Atlas Labs 
 
 ## 📌 Project Overview
